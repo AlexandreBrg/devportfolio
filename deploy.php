@@ -10,12 +10,12 @@
     $commands = array(
         'echo $PWD',
         'whoami',
-        //'git fetch -all',
-        //'git checkout --force "origin/master',
+        'git fetch -all',
+        'git checkout --force "origin/master',
         'git status',
-        //'git submodule sync',
-        //'git submodule update',
-        //'git submodule status',
+        'git submodule sync',
+        'git submodule update',
+        'git submodule status',
     );
 
     // exec commands
